@@ -1,0 +1,13 @@
+export const ADD_HABIT = 'ADD_HABIT'
+export const GET_HABIT = 'GET_HABIT'
+export const GET_HABITS = 'GET_HABITS'
+export const DELETE_HABIT = 'DELETE_HABIT'
+export const UPDATE_HABIT = 'UPDATE_HABIT'
+
+export const TOGGLE_ADD_MODAL = 'TOGGLE_ADD_MODAL'
+export const TOGGLE_DELETE_MODAL = 'TOGGLE_DELETE_MODAL'
+export const TOGGLE_EDIT_MODAL = 'TOGGLE_EDIT_MODAL'
+
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS'
+export const REGISTER_SUCCESS = 'REGISTER_SUCCESS'
+export const LOGOUT = 'LOGOUT'
